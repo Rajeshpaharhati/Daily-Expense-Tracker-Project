@@ -51,7 +51,7 @@ return true;
 
 </script>
 <body>
-	<div class="row">
+	<div class="row" style =" background color=orange;">
 			<h2 align="center">Daily Expense Tracker</h2>
 	<hr />
 		<div class="col-xs-10 col-xs-offset-1 col-sm-8 col-sm-offset-2 col-md-4 col-md-offset-4">
